@@ -1,0 +1,22 @@
+html {
+    font-size: 16px;
+}
+
+body {
+    font-family: 'Source Code Pro', Consolas, monaco, monospace;
+}
+
+.container {
+    max-width: 500px;
+}
+
+
+/*
+* center brand text vertically with robot ears 
+* (not with entire img) 
+*/
+
+.brand {
+    position: relative;
+    top: 4px;
+}
